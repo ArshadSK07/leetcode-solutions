@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0877-stone-game) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->

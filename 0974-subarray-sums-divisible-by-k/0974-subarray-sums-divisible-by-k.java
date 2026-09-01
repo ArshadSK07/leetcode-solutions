@@ -7,7 +7,7 @@ class Solution {
         for(int ele : nums){
             sum+=ele;
             int rem=sum%k;
-            if(rem <0){
+            if(rem <0){// to convert negative remainder into postive remiander
                 rem+=k;
             }
             cnt+=map.getOrDefault(rem,0);

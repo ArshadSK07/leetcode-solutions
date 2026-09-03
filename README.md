@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2562-find-the-array-concatenation-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting Sort

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3206-alternating-groups-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3206-alternating-groups-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 ## Two Pointers
 |  |
 | ------- |

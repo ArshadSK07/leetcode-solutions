@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 ## Sorting
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0525-contiguous-array) |

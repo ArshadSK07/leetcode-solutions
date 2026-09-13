@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |

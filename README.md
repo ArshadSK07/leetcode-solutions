@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0796-rotate-string) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |

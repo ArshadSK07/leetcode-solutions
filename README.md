@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

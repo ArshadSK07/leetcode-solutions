@@ -8,13 +8,13 @@ class Solution {
             return;
         }
         list.add(arr[idx]);
-        func(idx+1,list,ans,arr,target-arr[idx]);
+        func(idx+1,list,ans,arr,target-arr[idx]);// taking 
         list.remove(list.size()-1);
         int next = idx + 1;
         while (next < arr.length && arr[next] == arr[idx]) {
-            next++;
+            next++;// skipping duplicates 
         }
-        func(next,list,ans,arr,target);
+        func(next,list,ans,arr,target); // not taking
         
         return;
     }

@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -258,8 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

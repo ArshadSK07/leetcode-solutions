@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0051-n-queens) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0051-n-queens) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0051-n-queens) |
 ## Database
 |  |
@@ -311,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

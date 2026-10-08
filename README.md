@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3206-alternating-groups-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |

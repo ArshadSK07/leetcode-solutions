@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0905-sort-array-by-parity) |

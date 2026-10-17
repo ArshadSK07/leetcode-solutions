@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0877-stone-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2544-alternating-digit-sum) |

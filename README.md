@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2562-find-the-array-concatenation-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |

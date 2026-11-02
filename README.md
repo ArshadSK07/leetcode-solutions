@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |

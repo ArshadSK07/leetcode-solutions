@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0504-base-7) |
@@ -98,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -386,4 +389,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

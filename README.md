@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/ArshadSK07/leetcode-solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Bit Manipulation
 |  |
 | ------- |

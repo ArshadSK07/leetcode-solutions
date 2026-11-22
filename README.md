@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2678-number-of-senior-citizens](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [3498-reverse-degree-of-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |

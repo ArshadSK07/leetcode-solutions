@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2843-count-symmetric-integers](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |

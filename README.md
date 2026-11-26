@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [3360-stone-removal-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2562-find-the-array-concatenation-value](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |

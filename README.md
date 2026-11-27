@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/ArshadSK07/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ArshadSK07/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ArshadSK07/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prime Factorization
 |  |
 | ------- |
